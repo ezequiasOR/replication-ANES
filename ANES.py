@@ -57,7 +57,7 @@ args = easydict.EasyDict({
 model_name="GEO_"+Location
 
 
-device = torch.device('cuda:3' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 torch.cuda.set_device(device)  # change allocation of current GPU
 
 
