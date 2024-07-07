@@ -1,0 +1,388 @@
+387
+Coffee Shop	0
+Road	1
+Building	2
+Bakery	3
+Gym / Fitness Center	4
+Drugstore / Pharmacy	5
+Tech Startup	6
+University	7
+Garden	8
+Home (private)	9
+Office	10
+Gym	11
+Diner	12
+Train Station	13
+Bagel Shop	14
+Professional & Other Places	15
+Deli / Bodega	16
+Residential Building (Apartment / Condo)	17
+Donut Shop	18
+Salon / Barbershop	19
+City Hall	20
+Military Base	21
+Cocktail Bar	22
+Cosmetics Shop	23
+Park	24
+Italian Restaurant	25
+Bookstore	26
+Event Space	27
+College Academic Building	28
+Vietnamese Restaurant	29
+Campaign Office	30
+Airport Terminal	31
+Clothing Store	32
+Airport	33
+Fast Food Restaurant	34
+French Restaurant	35
+Chinese Restaurant	36
+Greek Restaurant	37
+Mexican Restaurant	38
+Bar	39
+Art Gallery	40
+Indian Restaurant	41
+Rock Club	42
+Food Truck	43
+Design Studio	44
+Arcade	45
+BBQ Joint	46
+Electronics Store	47
+Library	48
+Caf�	49
+Pub	50
+Dog Run	51
+Caf��	52
+Department Store	53
+Sandwich Place	54
+Roof Deck	55
+Doctor's Office	56
+Ice Cream Shop	57
+American Restaurant	58
+Toy / Game Store	59
+Wings Joint	60
+Medical Center	61
+Convenience Store	62
+Cafeteria	63
+Spa / Massage	64
+Thai Restaurant	65
+School	66
+High School	67
+Music School	68
+Market	69
+Juice Bar	70
+College Library	71
+Neighborhood	72
+Restaurant	73
+Hotel	74
+Other Great Outdoors	75
+Athletic & Sport	76
+Grocery Store	77
+Yogurt	78
+College Administrative Building	79
+Bus Station	80
+Sporting Goods Shop	81
+Coworking Space	82
+Snack Place	83
+Bank	84
+Laboratory	85
+Asian Restaurant	86
+Boutique	87
+Pizza Place	88
+Pet Store	89
+Airport Gate	90
+College Arts Building	91
+Theater	92
+General Travel	93
+Video Game Store	94
+Sushi Restaurant	95
+Speakeasy	96
+Movie Theater	97
+Burger Joint	98
+Wine Shop	99
+Airport Lounge	100
+Beer Garden	101
+Latin American Restaurant	102
+Post Office	103
+Indie Theater	104
+New American Restaurant	105
+Wine Bar	106
+Ethiopian Restaurant	107
+Whisky Bar	108
+Hardware Store	109
+Pier	110
+Baseball Stadium	111
+Korean Restaurant	112
+Hospital	113
+Shoe Store	114
+Church	115
+Martial Arts Dojo	116
+Mall	117
+Plane	118
+Breakfast Spot	119
+Spanish Restaurant	120
+Brewery	121
+Gay Bar	122
+Hot Dog Joint	123
+General Entertainment	124
+Music Venue	125
+Yoga Studio	126
+Subway	127
+Residence	128
+Convention Center	129
+Historic Site	130
+Gastropub	131
+Laundry Service	132
+Auditorium	133
+Women's Store	134
+Fried Chicken Joint	135
+Indie Movie Theater	136
+Japanese Restaurant	137
+Soup Place	138
+Furniture / Home Store	139
+Vegetarian / Vegan Restaurant	140
+Community College	141
+History Museum	142
+Seafood Restaurant	143
+Multiplex	144
+Monument / Landmark	145
+Taco Place	146
+Dessert Shop	147
+Nail Salon	148
+Art Museum	149
+Conference Room	150
+Bed & Breakfast	151
+Concert Hall	152
+Bus Line	153
+Liquor Store	154
+Men's Store	155
+Sports Bar	156
+Mac & Cheese Joint	157
+Bridge	158
+Parking	159
+Lounge	160
+Food & Drink Shop	161
+Performing Arts Venue	162
+Karaoke Bar	163
+German Restaurant	164
+Meeting Room	165
+Nightclub	166
+Playground	167
+Gas Station / Garage	168
+Tea Room	169
+Food	170
+Plaza	171
+Assisted Living	172
+Filipino Restaurant	173
+Scenic Lookout	174
+Mediterranean Restaurant	175
+Salad Place	176
+Paper / Office Supplies Store	177
+Rental Car Location	178
+Government Building	179
+Tanning Salon	180
+Camera Store	181
+Lake	182
+Accessories Store	183
+Australian Restaurant	184
+Thrift / Vintage Store	185
+Miscellaneous Shop	186
+Science Museum	187
+Ramen /  Noodle House	188
+College Technology Building	189
+Stadium	190
+Flea Market	191
+Burrito Place	192
+Rest Area	193
+Boat or Ferry	194
+Student Center	195
+Field	196
+Zoo	197
+Farmers Market	198
+Garden Center	199
+Bike Shop	200
+Cemetery	201
+Scandinavian Restaurant	202
+Southern / Soul Food Restaurant	203
+Smoke Shop	204
+Hobby Shop	205
+Middle Eastern Restaurant	206
+Track Stadium	207
+Automotive Shop	208
+Antique Shop	209
+Track	210
+Museum	211
+South American Restaurant	212
+Animal Shelter	213
+Moving Target	214
+Steakhouse	215
+Dive Bar	216
+Tapas Restaurant	217
+College Residence Hall	218
+Radio Station	219
+Caribbean Restaurant	220
+Hotel Bar	221
+Skating Rink	222
+Other Nightlife	223
+Hookah Bar	224
+Strip Club	225
+Emergency Room	226
+Lingerie Store	227
+Non-Profit	228
+Tennis	229
+Optical Shop	230
+Baseball Field	231
+College Bookstore	232
+Gourmet Shop	233
+Brazilian Restaurant	234
+Dance Studio	235
+Eastern European Restaurant	236
+Bowling Alley	237
+Cuban Restaurant	238
+College Theater	239
+Pool	240
+Food Court	241
+Courthouse	242
+College Science Building	243
+Financial or Legal Service	244
+Arts & Crafts Store	245
+Casino	246
+Cheese Shop	247
+Falafel Restaurant	248
+College Cafeteria	249
+Train	250
+Comedy Club	251
+College Engineering Building	252
+Distillery	253
+Basketball Stadium	254
+Dim Sum Restaurant	255
+Peruvian Restaurant	256
+Arepa Restaurant	257
+Video Store	258
+Jewelry Store	259
+Elementary School	260
+Fish & Chips Shop	261
+Farm	262
+Embassy / Consulate	263
+Record Shop	264
+Portuguese Restaurant	265
+General College & University	266
+Pet Service	267
+College Communications Building	268
+Cupcake Shop	269
+Tattoo Parlor	270
+Board Shop	271
+Malaysian Restaurant	272
+College Rec Center	273
+Bridal Shop	274
+Gym Pool	275
+Harbor / Marina	276
+College Classroom	277
+Pool Hall	278
+Tennis Court	279
+Dumpling Restaurant	280
+Beach	281
+Nursery School	282
+Public Art	283
+Argentinian Restaurant	284
+Cajun / Creole Restaurant	285
+Turkish Restaurant	286
+Credit Union	287
+Winery	288
+Golf Course	289
+Butcher	290
+Gift Shop	291
+Moroccan Restaurant	292
+Gaming Cafe	293
+Soccer Stadium	294
+Candy Store	295
+College Gym	296
+Jazz Club	297
+Hiking Trail	298
+Sculpture Garden	299
+Real Estate Office	300
+Sake Bar	301
+Hostel	302
+Spiritual Center	303
+Airport Tram	304
+City	305
+Light Rail	306
+Kids Store	307
+Travel Lounge	308
+Shop & Service	309
+College & University	310
+College Auditorium	311
+Taxi	312
+Fish Market	313
+Arts & Entertainment	314
+Photography Lab	315
+Synagogue	316
+Piano Bar	317
+Flower Shop	318
+Mobile Phone Shop	319
+Outdoors & Recreation	320
+Shrine	321
+Tailor Shop	322
+Theme Park	323
+Sorority House	324
+Travel & Transport	325
+Opera House	326
+Dentist's Office	327
+Volcano	328
+Soccer Field	329
+College Lab	330
+Basketball Court	331
+Paella Restaurant	332
+River	333
+Temple	334
+Afghan Restaurant	335
+Castle	336
+African Restaurant	337
+Platform	338
+College Quad	339
+Music Store	340
+College History Building	341
+Volcanoes	342
+Aquarium	343
+Factory	344
+Surf Spot	345
+Racetrack	346
+Ferry	347
+Police Station	348
+Swiss Restaurant	349
+Medical School	350
+Housing Development	351
+Athletics & Sports	352
+Skate Park	353
+Veterinarian	354
+Car Wash	355
+College Math Building	356
+Fair	357
+Bike Rental / Bike Share	358
+Molecular Gastronomy Restaurant	359
+Hot Spring	360
+Lighthouse	361
+Volleyball Court	362
+College Stadium	363
+Trade School	364
+Car Dealership	365
+Campground	366
+Frozen Yogurt	367
+Law School	368
+Water Park	369
+Hotel Pool	370
+Voting Booth	371
+Planetarium	372
+College Football Field	373
+Mosque	374
+Daycare	375
+Middle School	376
+Rock Climbing Spot	377
+Other Event	378
+Airport Food Court	379
+Conference	380
+Festival	381
+Convention	382
+Nightlife Spot	383
+Island	384
+Capitol Building	385
+Ramen / Noodle House	386

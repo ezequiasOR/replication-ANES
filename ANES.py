@@ -27,7 +27,7 @@ from sklearn.manifold import TSNE
 MARGIN  = 3
 FRIENDSHIP = 1
 N=5
-TRAIN_TIMES=5000
+TRAIN_TIMES=1000
 stime=time.time()
 RATIO=0.2
 def ctime():
@@ -57,7 +57,7 @@ args = easydict.EasyDict({
 model_name="GEO_"+Location
 
 
-device = torch.device('cuda:3' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 torch.cuda.set_device(device)  # change allocation of current GPU
 
 
@@ -319,6 +319,7 @@ X=[]
 Y=[]
 Y2=[]
 best=0
+print(">>>config.train_times", config.train_times)
 for epoch in range(iter_zero+1,config.train_times):
 #for epoch in range(1):
     total_loss = floatTensor([0.0])
